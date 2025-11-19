@@ -1,6 +1,5 @@
 ## AI-powered-smart-waste-classification
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+The development of an intelligent waste management system that uses AI-based image classification to automatically identify and sort waste into categories such as plastic, organic, metal, and paper. This solution aims to reduce manual effort, improve recycling efficiency, and promote sustainable waste-handling practices through real-time, automated classification.
 
 ## About
 <!--Detailed Description about the project-->
