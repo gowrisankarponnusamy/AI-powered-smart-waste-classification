@@ -3,8 +3,7 @@ The development of an intelligent waste management system that uses AI-based ima
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
+AI-Powered Smart Waste Classification is a project designed to integrate an intelligent waste-sorting system that leverages advanced machine learning and computer vision techniques to accurately identify and categorize waste materials. Traditional waste management processes are often inefficient, rely heavily on manual sorting, and lead to improper disposal and reduced recycling effectiveness. This project seeks to overcome these challenges by creating an automated, easy-to-use classification system that assists users in sorting waste correctly. By providing real-time identification of waste types, the system enhances recycling efficiency, reduces human effort, and promotes environmentally sustainable practices.
 ## Features
 <!--List the features of the project as shown below-->
 - Implements advance neural network method.
