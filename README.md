@@ -6,22 +6,21 @@ The development of an intelligent waste management system that uses AI-based ima
 AI-Powered Smart Waste Classification is a project designed to integrate an intelligent waste-sorting system that leverages advanced machine learning and computer vision techniques to accurately identify and categorize waste materials. Traditional waste management processes are often inefficient, rely heavily on manual sorting, and lead to improper disposal and reduced recycling effectiveness. This project seeks to overcome these challenges by creating an automated, easy-to-use classification system that assists users in sorting waste correctly. By providing real-time identification of waste types, the system enhances recycling efficiency, reduces human effort, and promotes environmentally sustainable practices.
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Implements a deep learning–based waste classification system using image data.
+- A framework-based application designed for real-time deployment through webcam input.
+- High scalability for adding new waste categories as more data becomes available.
+- Low inference time, enabling smooth real-time classification.
+- A structured dataset-driven model using folder-based image classes within the project directory.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
-
+* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with TensorFlow and OpenCV.
+* Development Environment: Python 3.8 or later is necessary for training and running the waste classification model.
+* Deep Learning Frameworks: TensorFlow/Keras is used for model creation, training, and inference.
+* Image Processing Libraries: OpenCV is essential for loading frames from the webcam and preprocessing real-time images.
+* Version Control: Git is used for project management, version tracking, and collaborative updates.
+* IDE: Use of VSCode or PyCharm as the Integrated Development Environment for coding, debugging, and model integration.
+* Additional Dependencies: Includes scikit-learn, TensorFlow, OpenCV, NumPy, and matplotlib for model training, evaluation, and visualization.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
@@ -44,10 +43,9 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The AI-Powered Smart Waste Classification system improves the accuracy and efficiency of waste segregation by automatically identifying categories such as plastic, metal, paper, glass, and biodegradable waste. The integration of computer vision and deep learning demonstrates clear potential for real-time automation in recycling and smart waste management.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
+This project provides a foundation for next-generation smart-bin systems, environmental monitoring tools, and automated sorting lines. Its deployment capability contributes to cleaner waste streams, better recycling outcomes, and more sustainable waste management practices across public and private environments.
 ## Articles published / References
 1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
 2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
