@@ -46,7 +46,7 @@ The AI-Powered Smart Waste Classification system improves the accuracy and effic
 
 This project provides a foundation for next-generation smart-bin systems, environmental monitoring tools, and automated sorting lines. Its deployment capability contributes to cleaner waste streams, better recycling outcomes, and more sustainable waste management practices across public and private environments.
 ## Articles published / References
-1. J. Smith, A. Johnson, and K. Brown, ”Challenges in municipal waste management: A global perspective,” Journal of Environmental Management, vol. 245, pp. 123-135, 2022.
+1. J. Smith, A. Johnson, and K. Brown, ”Challenges in municipal waste management: A global perspective,” Journal of Environmental Management, vol. 245, pp. 123-135, 2022.
 2. World Bank, ”What a Waste 2.0: A Global Snapshot of Solid Waste
 Management to 2050,” World Bank Publications, Washington, DC, 2018.
 3. A. Chen, M. Wang, and L. Zhang, ”Deep learning applications in
@@ -64,7 +64,7 @@ Recognition, vol. 78, pp. 234-248, 2021.
 7. L. Liu, X. Zhang, and Y. Wang, ”Convolutional neural networks for
 waste image classification: A comparative study,” IEEE Access, vol. 9,
 pp. 87456-87468, 2023.
-8. M. Thompson, R. Davis, and A. White, ”Economic assessment of AIpowered waste management systems,” Environmental Economics and
+8. M. Thompson, R. Davis, and A. White, ”Economic assessment of AI-powered waste management systems,” Environmental Economics and
 Policy Studies, vol. 25, no. 3, pp. 445-462, 2023.
 9. H. Kim, J. Park, and S. Choi, ”Real-time image processing for waste
 sorting applications,” IEEE Transactions on Industrial Electronics, vol.
